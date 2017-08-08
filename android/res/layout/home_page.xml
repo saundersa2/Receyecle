@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal|center"
+    android:weightSum="1"
+    android:layout_gravity="center">
+
+    <TextView
+        android:text="Welcome to RecEYEcle!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/welcomeBlurb"
+        android:textSize="28sp"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:layout_marginTop="20dp"
+        android:textColor="?android:attr/colorButtonNormal" />
+
+    <ImageView
+        android:src="@drawable/icon"
+        android:layout_width="181dp"
+        android:layout_height="194dp"
+        android:id="@+id/imageLogo" />
+
+    <TextView
+        android:text="Recycling sounds easy enough, just throw it all in the recycling bin right? WRONG!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textColor="?android:attr/colorButtonNormal" />
+
+
+    <TextView
+        android:text="By putting something in the incorrect bin you could compromise up to 2 tons of recyclable waste! Our goal is to help reduce the landfill waste by helping to ensure an item is properly disposed of. You can visit our website for more information or recycling fun facts at"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView7"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:textAlignment="center"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:paddingBottom="10dp"
+        android:textColor="?android:attr/colorButtonNormal" />
+
+    <TextView
+        android:text="https://receyecle.000webhostapp.com/"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/website"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:paddingBottom="5dp"
+        android:textColor="@color/control_background" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:gravity="center_horizontal"
+        >
+
+        <Button
+            android:text="Camera"
+            android:layout_width="85dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/back_to_camera"
+            android:elevation="0dp"
+            style="@android:style/Widget.Button.Inset"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp" />
+
+        <Button
+            android:text="How To"
+            android:layout_width="85dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/how_to_use"
+            android:textSize="14sp"
+            style="@android:style/Widget.Button.Inset"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2-cp2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2-cp2/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2-cp2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2-cp2/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2-cp2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2-cp2/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2/android/res/drawable-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/activation_07b5d4fd5050251e4d4f2dfabfbe64bdd07fc756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/6386ec5c3209407edb90ec5443baa7ac2db0c2ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_1d101c8f3f719fe31b90cd997481a33891ee159e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/21301d66f6a4faed2fb3606104ed1c50111165f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_e32158d1322ec4a34e7debb94cbb7c97ee8f4187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/1e19a565cd626062ee49779fe733eb53d76c62c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_111c36a72db2ce9708d8bf9234a8fdef5ca90f4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/2dc78d0c655606190e512f6862d7a99dea733407/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_f2836dc473eafe79b055589d2cab661e0f625f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/560c433ce8c0d3b1098e6b882d9992399e0513dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_8b3b0766e1a464e925ab9015aead633613e13748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/mail_155197113e139dc99d28f31f384afe7d1ddc0dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/2b38186cc8a5ea9a3e4a23b96f27bdd0e27fc5ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_cc882dd54af90dbbccfa4aa32bdfbb4073e7ae63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/ba10368508828dbe9a3a544419c3ac613a8dda42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_0a416a5008ed7f43a75ef859a6c6a162e8f45456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/efa9dd9bc83f2532da305a7547dc0a864a0281c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_92f9e5b4c1383345bbe335bcf46509bc250fbabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/47f7517fabb138c7c9709b1026afbfae8277200f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f43d6c042ee8eb48fa7606da4d1034d472a43cd">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_1ba52412d7616beab396be647e16c3b87ccefb31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/additionnal_c6094020ea9f673bf5938c6836157cadac929e25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/26c17bb131a0c9fb9fc9ccebbeca85dbd17a044d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_b13688fb70bb3da920a4d380677628c612730aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/7cf8ce53cf271abb5c4b6a614347e4371e9e0121/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_1016d12874ad736aa01b6ad29008ea24ee14bdf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/79470124ff290c6b3428e2b1842cdd1b345b6203/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_d63cac64f3971b19f0cfc76d614e68e68826d082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/87cb7909393120f80d1aa0fed17405ff854621eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_5ad03019cf85d45ad053ac7ae20f9801cd421252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/6c1b30833ebd55ccb0300a2209d8b60ba736d5a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/classes_c0ca03a9b17bd773c46667d663d2574881353040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/.android/build-cache/fe1d5277b0f0cb1bddf77f203d972c54de274bec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2/android/gradleBuild/intermediates/pre-dexed/debug/classes_e4df3acad7b30f6605d9020c45f47e23a5a628d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/perrasr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_e7b1403dc4545f453b346fe15b7849b88805ce6c.jar" />
+    </item>
+
+</items>

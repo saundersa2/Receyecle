@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:18:1-70:12
+	package
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:19:5-32
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:21:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:22:22-64
+uses-feature#android.hardware.camera
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:24:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:26:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:27:22-76
+uses-sdk
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:29:5-31:41
+MERGED from [com.android.volley:volley:1.0.0] /Users/perrasr/.android/build-cache/87cb7909393120f80d1aa0fed17405ff854621eb/output/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.0] /Users/perrasr/.android/build-cache/47f7517fabb138c7c9709b1026afbfae8277200f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/perrasr/.android/build-cache/7cf8ce53cf271abb5c4b6a614347e4371e9e0121/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/perrasr/.android/build-cache/1e19a565cd626062ee49779fe733eb53d76c62c3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/perrasr/.android/build-cache/560c433ce8c0d3b1098e6b882d9992399e0513dc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/perrasr/.android/build-cache/21301d66f6a4faed2fb3606104ed1c50111165f8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/perrasr/.android/build-cache/2dc78d0c655606190e512f6862d7a99dea733407/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/perrasr/.android/build-cache/26c17bb131a0c9fb9fc9ccebbeca85dbd17a044d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/perrasr/.android/build-cache/ba10368508828dbe9a3a544419c3ac613a8dda42/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/perrasr/.android/build-cache/efa9dd9bc83f2532da305a7547dc0a864a0281c2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/perrasr/.android/build-cache/79470124ff290c6b3428e2b1842cdd1b345b6203/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/perrasr/.android/build-cache/6386ec5c3209407edb90ec5443baa7ac2db0c2ec/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/perrasr/.android/build-cache/2b38186cc8a5ea9a3e4a23b96f27bdd0e27fc5ae/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/perrasr/.android/build-cache/6c1b30833ebd55ccb0300a2209d8b60ba736d5a8/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/perrasr/.android/build-cache/21301d66f6a4faed2fb3606104ed1c50111165f8/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:31:9-38
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:30:9-35
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+		INJECTED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml
+application
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:33:5-68:19
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] /Users/perrasr/.android/build-cache/fe1d5277b0f0cb1bddf77f203d972c54de274bec/output/AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.volley:volley:1.0.0] /Users/perrasr/.android/build-cache/87cb7909393120f80d1aa0fed17405ff854621eb/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.0.0] /Users/perrasr/.android/build-cache/47f7517fabb138c7c9709b1026afbfae8277200f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/perrasr/.android/build-cache/7cf8ce53cf271abb5c4b6a614347e4371e9e0121/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/perrasr/.android/build-cache/1e19a565cd626062ee49779fe733eb53d76c62c3/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/perrasr/.android/build-cache/560c433ce8c0d3b1098e6b882d9992399e0513dc/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/perrasr/.android/build-cache/21301d66f6a4faed2fb3606104ed1c50111165f8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/perrasr/.android/build-cache/2dc78d0c655606190e512f6862d7a99dea733407/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/perrasr/.android/build-cache/26c17bb131a0c9fb9fc9ccebbeca85dbd17a044d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/perrasr/.android/build-cache/ba10368508828dbe9a3a544419c3ac613a8dda42/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/perrasr/.android/build-cache/efa9dd9bc83f2532da305a7547dc0a864a0281c2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/perrasr/.android/build-cache/79470124ff290c6b3428e2b1842cdd1b345b6203/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/perrasr/.android/build-cache/6386ec5c3209407edb90ec5443baa7ac2db0c2ec/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/perrasr/.android/build-cache/2b38186cc8a5ea9a3e4a23b96f27bdd0e27fc5ae/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/perrasr/.android/build-cache/6c1b30833ebd55ccb0300a2209d8b60ba736d5a8/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:34:9-34
+	android:allowBackup
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:33:18-44
+	android:icon
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:35:9-38
+	android:largeHeap
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:37:9-33
+	android:theme
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:36:9-40
+activity#com.receyecle.app.Camera2VideoImageActivity
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:39:9-46:20
+	android:screenOrientation
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:40:19-55
+	android:label
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:41:19-44
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:39:19-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:44:27-74
+activity#com.receyecle.app.CapturedImage
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:47:9-50:20
+	android:screenOrientation
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:49:13-38
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:47:19-65
+activity#com.receyecle.app.Home
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:51:9-55:20
+	android:screenOrientation
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:54:13-38
+	android:theme
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:52:13-60
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:51:19-56
+activity#com.receyecle.app.Instructions
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:56:9-60:20
+	android:screenOrientation
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:59:13-38
+	android:theme
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:56:19-64
+activity#com.receyecle.app.TempGallery
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:61:9-63:50
+	android:screenOrientation
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:63:13-38
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:61:19-63
+activity#com.receyecle.app.HowToRecycle
+ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:64:9-66:50
+	android:screenOrientation
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:66:13-38
+	android:name
+		ADDED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:64:19-64
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/AndroidManifest.xml:18:1-70:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/perrasr/.android/build-cache/7cf8ce53cf271abb5c4b6a614347e4371e9e0121/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/perrasr/.android/build-cache/7cf8ce53cf271abb5c4b6a614347e4371e9e0121/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/perrasr/.android/build-cache/7cf8ce53cf271abb5c4b6a614347e4371e9e0121/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/perrasr/.android/build-cache/7cf8ce53cf271abb5c4b6a614347e4371e9e0121/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/perrasr/.android/build-cache/560c433ce8c0d3b1098e6b882d9992399e0513dc/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/perrasr/.android/build-cache/560c433ce8c0d3b1098e6b882d9992399e0513dc/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/perrasr/.android/build-cache/560c433ce8c0d3b1098e6b882d9992399e0513dc/output/AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/perrasr/.android/build-cache/21301d66f6a4faed2fb3606104ed1c50111165f8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/perrasr/.android/build-cache/2dc78d0c655606190e512f6862d7a99dea733407/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/perrasr/.android/build-cache/26c17bb131a0c9fb9fc9ccebbeca85dbd17a044d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/perrasr/.android/build-cache/ba10368508828dbe9a3a544419c3ac613a8dda42/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/perrasr/.android/build-cache/efa9dd9bc83f2532da305a7547dc0a864a0281c2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/perrasr/.android/build-cache/79470124ff290c6b3428e2b1842cdd1b345b6203/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/perrasr/.android/build-cache/6386ec5c3209407edb90ec5443baa7ac2db0c2ec/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/perrasr/.android/build-cache/2b38186cc8a5ea9a3e4a23b96f27bdd0e27fc5ae/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/perrasr/.android/build-cache/6c1b30833ebd55ccb0300a2209d8b60ba736d5a8/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/perrasr/.android/build-cache/21301d66f6a4faed2fb3606104ed1c50111165f8/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/perrasr/.android/build-cache/21301d66f6a4faed2fb3606104ed1c50111165f8/output/AndroidManifest.xml:26:9-47

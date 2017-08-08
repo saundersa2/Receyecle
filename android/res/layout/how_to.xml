@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/classifier"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:paddingTop="15dp"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:text="Recyclable!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/YN_recycleable_var"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="How to Recycle: "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/how_to_lbl"
+        android:paddingTop="15dp"
+        android:paddingBottom="10dp"
+        android:textSize="18sp"
+        android:paddingLeft="10dp"
+        android:textColor="?android:attr/colorPrimaryDark" />
+
+    <TextView
+        android:text="If you have curbside recycling, then just throw it in any blue recycle bin! Otherwise, take it to your local waste management facility to recycle!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/how_to"
+        android:textSize="18sp"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp" />
+
+    <TextView
+        android:text="Other Options:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/other_op_lbl"
+        android:textSize="18sp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:paddingTop="15dp"
+        android:textColor="?android:attr/colorPrimaryDark" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/other_op"
+        android:textSize="18sp"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="10dp" />
+
+    <Button
+        android:text="Done"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/done_howto"
+        android:foregroundGravity="center_horizontal"
+        android:layout_gravity="center"
+        style="@android:style/Widget.Button.Inset" />
+</LinearLayout>

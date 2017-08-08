@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_captured_image"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="64dp"
+    android:paddingRight="64dp"
+    android:paddingTop="16dp"
+    tools:context="org.tensorflow.demo.com.tensorflow.demo.CapturedImage">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="280dp"
+        android:layout_marginTop="30dp"
+        android:id="@+id/imageView1"
+        android:layout_alignParentStart="true"
+        android:cropToPadding="false"
+        android:layout_marginBottom="15dp" />
+
+    <ListView
+        android:id="@+id/results"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_below="@+id/imageView1" />
+
+    <TextView
+        android:text="Object not detected? "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:layout_below="@+id/results"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Send us Your Photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/send_photo"
+        android:layout_marginStart="9dp"
+        android:layout_alignBaseline="@+id/textView5"
+        android:layout_alignBottom="@+id/textView5"
+        android:layout_toEndOf="@+id/textView5"
+        android:clickable="true"
+        android:textStyle="normal|bold"
+        android:textColor="@color/control_background" />
+
+
+</RelativeLayout>

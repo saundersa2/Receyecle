@@ -1,0 +1,4 @@
+#Fri Jul 21 17:17:43 EDT 2017
+base.0=/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

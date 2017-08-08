@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/res/merged/release/drawable-mdpi/slicecam.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/res/drawable-mdpi/slicecam.png"
+    },
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/res/merged/release/drawable-mdpi/icon.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/res/merged/release/drawable-mdpi/slicegallery.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/res/drawable-mdpi/slicegallery.png"
+    },
+    {
+        "merged": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/gradleBuild/intermediates/res/merged/release/drawable-mdpi/sliceicon.png",
+        "source": "/Users/perrasr/tensorflow-for-poets-2-cp2-B4_RETRAIN/android/res/drawable-mdpi/sliceicon.png"
+    }
+]

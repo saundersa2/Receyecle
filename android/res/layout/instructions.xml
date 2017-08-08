@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp">
+
+    <TextView
+        android:text="Instructions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:padding="15dp"
+        android:textColor="#eaeaea"
+        android:layout_marginTop="10dp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="Step 1:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView8"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif"
+        android:textColor="#eaeaea"
+        android:paddingTop="5dp" />
+
+    <TextView
+        android:text="Take a picture, or upload one from your photo gallery, of the item you wish to learn how to recycle."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textSize="18sp"
+        android:padding="5dp"
+        android:fontFamily="sans-serif"
+        android:textColor="?android:attr/colorButtonNormal" />
+
+    <TextView
+        android:text="Step 2:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView10"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif"
+        android:textColor="#eaeaea"
+        android:paddingTop="5dp" />
+
+    <TextView
+        android:text="Select which description best characterizes your item. If none listed match your item, you can click the 'Send us Your Photo' button to send us your image to help make RecEYEcle as accurate as can be."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="18sp"
+        android:padding="5dp"
+        android:textColor="?android:attr/colorButtonNormal" />
+
+    <TextView
+        android:text="Step 3:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView11"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif"
+        android:textColor="#eaeaea"
+        android:paddingTop="5dp" />
+
+    <TextView
+        android:text="Learn if your item can be recycled as well as tips for how to properly recycle it, or how to reuse it!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:textSize="18sp"
+        android:padding="5dp"
+        android:textColor="?android:attr/colorButtonNormal" />
+</LinearLayout>
