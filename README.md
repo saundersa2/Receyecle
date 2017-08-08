@@ -1,11 +1,3 @@
-# Overview
+# RecEYEcle
 
-This repo contains code for the
-["TensorFlow for poets 2" codelab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2).
-
-This repo contains a simplified and trimmed down version of tensorflow's
-[android image classification example](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
-in the `android/` directory.
-
-The `scripts` directory contains helpers for the codelab.
-
+RecEYEcle is an Android application that allows users to upload or take a picture of an object in order to classify what the object is. The application then instructs the user how to recycle the scanned item. This will help eliminate confusion with proper recycling techniques. Alongside the Android application will be a website to track what images have been scanned in order to better understand current challenges with recycling.
